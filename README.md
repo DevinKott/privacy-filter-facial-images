@@ -6,3 +6,8 @@ Detects faces in singular or sequential image sets and applies a blur over the i
 * mtcnn
 * tensorflow
 * scikit-image
+
+Requires downloading the WIDERFACE train dataset.
+
+Download the WIDERFACE Training data to `/WIDER_train/*`
+Download the WIDERFACE annotations to `/wider_face_split/*`
