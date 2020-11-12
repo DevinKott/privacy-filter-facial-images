@@ -1,3 +1,5 @@
 WIDER_train/*
 WIDER_test/*
 wider_face_split/*
+.vscode/*
+.ipynb_checkpoints/*
