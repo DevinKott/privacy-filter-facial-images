@@ -3,3 +3,4 @@ WIDER_test/*
 wider_face_split/*
 .vscode/*
 .ipynb_checkpoints/*
+__pycache__/*
