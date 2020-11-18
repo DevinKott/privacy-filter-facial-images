@@ -2,6 +2,6 @@ WIDER_train/*
 WIDER_test/*
 WIDER_val/*
 wider_face_split/*
-.vscode/*
-.ipynb_checkpoints/*
-__pycache__/*
+.vscode
+.ipynb_checkpoints
+__pycache__
